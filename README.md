@@ -8,9 +8,9 @@
 
 <a href="https://github.com/ThiagoMoota">GitHub</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/thiago-mota-dev/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/thiago-moota">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:thiago_mota123@hotmail.com">thiago_mota123@hotmail.com</a>
+<a href="mailto:thiago_mota123@hotmail.com">E-mail</a>
 
 </div>
 
