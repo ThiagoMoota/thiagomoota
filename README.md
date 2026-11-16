@@ -66,4 +66,3 @@ Simulador iterativo em Python com mecânica de estratégia baseada em turnos par
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,100:1e3a8a&height=60&section=footer" width="100%" />
